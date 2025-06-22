@@ -1,8 +1,8 @@
 ---
 
-# 🏦 Credit Default Risk Prediction using Logistic Regression & XGBoost
+# 🏦 Credit Default Risk Prediction (Home Credit Indonesia)
 
-This project tackles the **Home Credit Default Risk** classification problem using real-world data from [Kaggle](https://www.kaggle.com/competitions/home-credit-default-risk). The objective is to build robust machine learning models that can predict a client's probability of defaulting on a loan.
+This project aims to predict the default risk of loan applicants using original data provided by Home Credit Indonesia. It combines end-to-end data preprocessing, feature engineering, class balancing, and model evaluation using Logistic Regression and XGBoost.
 
 ---
 
